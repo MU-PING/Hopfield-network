@@ -1,4 +1,4 @@
-# hopfield-network
+# Hopfield-network
 ## 程式簡介
 ### 使用說明
 > 透過視覺化界面展示「離散型Hopfield Network」的使用方法

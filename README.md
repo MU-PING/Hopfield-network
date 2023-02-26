@@ -14,7 +14,7 @@
 * 「驗證」後下方會產生Hopfield Network的 ( 聯想 ) 結果
 
 ### 範例圖
-![](https://i.imgur.com/TbLk2fK.png)
+![image](https://user-images.githubusercontent.com/93152909/221432926-00d86501-dfdb-495e-b25e-bbbfebaac649.png)
 
 ## Hopfield Network 演算法
 ### 演算法簡介
